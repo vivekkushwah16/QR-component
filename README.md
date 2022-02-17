@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+git ls-files --stage | grep 160000# Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
